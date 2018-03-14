@@ -1,0 +1,8 @@
+dependencies: \
+  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTPlatform.m \
+  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTPlatform.h \
+  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTVersion.h
