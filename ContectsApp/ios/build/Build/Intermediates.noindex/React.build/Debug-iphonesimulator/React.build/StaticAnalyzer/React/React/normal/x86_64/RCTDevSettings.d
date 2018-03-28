@@ -1,22 +1,22 @@
 dependencies: \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Modules/RCTDevSettings.mm \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Modules/RCTDevSettings.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Profiler/RCTProfile.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h

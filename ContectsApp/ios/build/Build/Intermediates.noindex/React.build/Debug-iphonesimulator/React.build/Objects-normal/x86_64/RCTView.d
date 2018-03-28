@@ -1,20 +1,20 @@
 dependencies: \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Views/RCTView.m \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Views/RCTView.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Views/RCTBorderDrawing.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTConvert.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Views/RCTAnimationType.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Views/UIView+React.h \
-  /Users/shubhamchauhan/Desktop/ContectsApp/node_modules/react-native/React/Modules/RCTI18nUtil.h
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Views/RCTView.m \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Views/RCTView.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Views/RCTBorderDrawing.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/shubhamchauhan/Documents/GitHub/CrossPlatform_React-Native_ContactsAppplication/ContectsApp/node_modules/react-native/React/Modules/RCTI18nUtil.h
